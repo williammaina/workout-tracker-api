@@ -2,6 +2,16 @@
   "version": 1,
   "snapshots": [
     {
+      "id": "2026-07-27-08-11-07-u2bppd",
+      "name": "Auto recovery point after bulk changes",
+      "createdAt": "2026-07-27T08:11:07.989Z",
+      "reason": "auto-bulk-change",
+      "fileCount": 11,
+      "totalSize": 32545,
+      "workspaceName": "workout-tracker-api",
+      "workspacePath": "/home/user/Desktop/workout-tracker-api"
+    },
+    {
       "id": "2026-07-27-08-00-23-ehb8q8",
       "name": "Auto recovery point after bulk changes",
       "createdAt": "2026-07-27T08:00:23.231Z",
